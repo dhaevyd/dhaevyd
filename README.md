@@ -14,7 +14,7 @@
 
 ## 🛠️ Active Projects
 
-- **[Homelab](https://github.com/zazathomas/Homelab)**: Infrastructure automation and security testing environment.
+- **[Homelab](https://github.com/dhaevyd/Homelab)**: Infrastructure Automation and security testing environment.
 
 <!--
 **dhaevyd/dhaevyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
