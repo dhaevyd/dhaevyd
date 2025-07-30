@@ -1,12 +1,11 @@
 # David Ibinaiye 
 
-### Newly Inducted Homelab Bro
-
+### Tech Bro
 ---
 
 ## 💻 Professional Overview
 
-- **Specialization**: Tech Support, Cloud Engineering 
+- **Specialisation**: Tech Support, Cloud Engineering 
 - **Collaboration**: Open to cybersecurity initiatives within the CNCF ecosystem
 - **Contact 📫**: [LinkedIn](https://www.linkedin.com/in/davidibinaiye/)
 
@@ -14,7 +13,9 @@
 
 ## 🛠️ Active Projects
 
-- **[Homelab](https://github.com/dhaevyd/Homelab)**: Infrastructure Automation and security testing environment.
+- **[Homelab](https://github.com/dhaevyd/Homelab)**: Homelab Docker Apps, Automation and security testing environment.
+- **[Infrastructure](https://github.com/dhaevyd/Infrastructure)**: Infrastructure as code.
+- **[Scripting-FC](https://github.com/dhaevyd/Scripting-FC)**: Automation Scripts environment.
 
 <!--
 **dhaevyd/dhaevyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
