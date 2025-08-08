@@ -16,6 +16,7 @@
 - **[Homelab](https://github.com/dhaevyd/Homelab)**: Homelab Docker Apps, Automation and security testing environment.
 - **[Infrastructure](https://github.com/dhaevyd/Infrastructure)**: Infrastructure as code.
 - **[Scripting-FC](https://github.com/dhaevyd/Scripting-FC)**: Automation Scripts environment.
+- **[Firewall-Updater](https://github.com/dhaevyd/firewall-updater)**: Automated firewall rule Management tool.
 
 <!--
 **dhaevyd/dhaevyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
